@@ -22,4 +22,7 @@ $obj1->doExport($handlerObject);
 $obj2 = new exportHandler();
 $obj2->doExport($handlerObject);
 
+$obj3 = new exportHandler();
+$obj3->doExport($handlerObject);
+
 
